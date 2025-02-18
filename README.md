@@ -47,10 +47,4 @@ O curso **Fundamentos de Python 1 (PE1)** apresenta os conceitos básicos da lin
 ## Contribuição
 Sinta-se livre para abrir issues e enviar pull requests para melhorias no repositório.
 
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-**Happy Coding! 🚀**
 
